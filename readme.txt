@@ -1,9 +1,3 @@
-Name: Josiah Varghese
-StudentID: 1043468
-Date: October 22, 2022
-CIS*2520: Assignment 2
-
-1	Stacks
 Program name: q1.c
 To run: 
 	>make q1
@@ -115,12 +109,3 @@ Please select one of the following options:
 
 Enter transaction code: 7
 Total income: $4550.00
-
-2	Reverse Polish notation (RPN): Łukasiewicz notation
-Program name: q2.c
-To run: 
-	>make q2
-	>./q2 <expression>
-Sample Output:
-	.\q2 12+53-*
-	6.00
